@@ -11,7 +11,7 @@ x="City",
 y="Value",
 kind="bar",
 legend=False,
-title="Example PAI Visualisation"
+title="My First PAI Visualisation"
 )
 plt.ylabel("Value")
 plt.tight_layout()
